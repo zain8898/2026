@@ -1,2 +1,4 @@
 # 2026
-making small projects, learning and understanding
+making small projects
+<br>
+learning and understanding

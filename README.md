@@ -1,6 +1,6 @@
 # 2026
-making small projects
+making small projects.
 <br>
-learning and understanding
+learning and understanding.
 <br>
 zain
